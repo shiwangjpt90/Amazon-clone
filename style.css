@@ -200,6 +200,9 @@ a{
     padding: 20px 0px 15px;
     
 }
+.box h2{
+    margin-left:10px;
+}
 .box-img img{
     height: 300px;
     width: 335px;
